@@ -1,0 +1,7 @@
+ Several floppy related options may be given, example:
+ linux-2.2.13 floppy=daring floppy=two_fdc
+ append = "floppy=daring floppy=two_fdc"
+ insmod floppy daring two_fdc
+ floppy=daring
+ floppy=0,daring
+	doesn't involve seeks). Implied by 'daring' option.

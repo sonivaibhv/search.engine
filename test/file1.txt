@@ -1,0 +1,2 @@
+blue=bomb is not red. rather, it is never red.strangely, red blue bomb is also never blue.
+

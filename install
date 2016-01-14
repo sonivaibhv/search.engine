@@ -1,0 +1,13 @@
+Basic Installation
+==================
+
+The simplest way to compile/install this package is:
+
+  1. Type `make' to compile the package.
+
+  2. Change to root user ('su' command)
+
+  4. Type `make install' to install the program.
+
+  5. You can remove the program binaries and object files from the
+     source code directory by typing `make clean'.

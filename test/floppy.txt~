@@ -1,0 +1,3 @@
+ Several floppy related options may be given, example:
+ insmod floppy daring two_fdc
+	doesn't involve seeks). Implied by 'daring' option.

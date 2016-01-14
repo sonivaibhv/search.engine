@@ -1,0 +1,495 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.2	//
+ALPHABET_SIZE	trie.h	10;"	d
+ALPHABET_SIZE	trie1.cpp	5;"	d	file:
+ALPHABET_SIZE	trie2.cpp	5;"	d	file:
+ALPHABET_SIZE	trie3.cpp	5;"	d	file:
+BEGIN	lex.yy.c	79;"	d	file:
+ECHO	lex.yy.c	546;"	d	file:
+EOB_ACT_CONTINUE_SCAN	lex.yy.c	104;"	d	file:
+EOB_ACT_END_OF_FILE	lex.yy.c	105;"	d	file:
+EOB_ACT_LAST_MATCH	lex.yy.c	106;"	d	file:
+FLEX_SCANNER	lex.yy.c	7;"	d	file:
+File	file.h	/^class File$/;"	c
+INITIAL	lex.yy.c	461;"	d	file:
+Int	wordfile.h	/^	Int()$/;"	f	class:Int
+Int	wordfile.h	/^	Int(int n)$/;"	f	class:Int
+Int	wordfile.h	/^class Int$/;"	c
+List	lib/list.h	/^	List()$/;"	f	class:List
+List	lib/list.h	/^class List$/;"	c
+NONOPT	lib/getopt.h	21;"	d
+Node	lib/list.h	/^	typedef _Node Node;$/;"	t	class:List
+Node	trie.h	/^		Node(int offset = -1)$/;"	f	class:Trie::Node
+Node	trie.h	/^	class Node$/;"	c	class:Trie
+Node	trie1.cpp	/^		Node(int offset = -1)$/;"	f	class:Trie::Node
+Node	trie1.cpp	/^	class Node$/;"	c	class:Trie	file:
+Node	trie2.cpp	/^		Node(int offset = -1)$/;"	f	class:Trie::Node
+Node	trie2.cpp	/^	class Node$/;"	c	class:Trie	file:
+Node	trie3.cpp	/^		Node(int offset = -1)$/;"	f	class:Trie::Node
+Node	trie3.cpp	/^	class Node$/;"	c	class:Trie	file:
+Pointer	trie.h	/^			Pointer()$/;"	f	class:Trie::Node::Pointer
+Pointer	trie.h	/^		class Pointer$/;"	c	class:Trie::Node
+Pointer	trie1.cpp	/^			Pointer()$/;"	f	class:Trie::Node::Pointer
+Pointer	trie1.cpp	/^		class Pointer$/;"	c	class:Trie::Node	file:
+Pointer	trie2.cpp	/^			Pointer()$/;"	f	class:Trie::Node::Pointer
+Pointer	trie2.cpp	/^		class Pointer$/;"	c	class:Trie::Node	file:
+Pointer	trie3.cpp	/^			Pointer()$/;"	f	class:Trie::Node::Pointer
+Pointer	trie3.cpp	/^		class Pointer$/;"	c	class:Trie::Node	file:
+REJECT	lex.yy.c	455;"	d	file:
+Trie	trie.h	/^	Trie(string index_fn, string fn)$/;"	f	class:Trie
+Trie	trie.h	/^class Trie$/;"	c
+Trie	trie1.cpp	/^	Trie(char * index_fn, char * fn)$/;"	f	class:Trie
+Trie	trie1.cpp	/^class Trie$/;"	c	file:
+Trie	trie2.cpp	/^	Trie(char * index_fn, char * fn)$/;"	f	class:Trie
+Trie	trie2.cpp	/^class Trie$/;"	c	file:
+Trie	trie3.cpp	/^	Trie(char * index_fn, char * fn)$/;"	f	class:Trie
+Trie	trie3.cpp	/^class Trie$/;"	c	file:
+USE_INDEX	getopt.c	61;"	d	file:
+WORD	pop.tab.c	/^     WORD = 258$/;"	e	enum:yytokentype	file:
+WORD	pop.tab.c	59;"	d	file:
+WORD	pop.tab.h	/^     WORD = 258$/;"	e	enum:yytokentype
+WORD	pop.tab.h	35;"	d
+Word	trie1.cpp	/^typedef int Word;$/;"	t	file:
+Word	trie2.cpp	/^typedef int Word;$/;"	t	file:
+Word	trie3.cpp	/^typedef int Word;$/;"	t	file:
+Word	word.h	/^	Word()$/;"	f	class:Word
+Word	word.h	/^	Word(string word)$/;"	f	class:Word
+Word	word.h	/^class Word$/;"	c
+WordFile	wordfile.h	/^	WordFile(int fnum = 0, int count = 0)$/;"	f	class:WordFile
+WordFile	wordfile.h	/^class WordFile$/;"	c
+YYABORT	pop.tab.c	397;"	d	file:
+YYACCEPT	pop.tab.c	396;"	d	file:
+YYBACKUP	pop.tab.c	409;"	d	file:
+YYBISON	pop.tab.c	37;"	d	file:
+YYCOPY	pop.tab.c	166;"	d	file:
+YYCOPY	pop.tab.c	169;"	d	file:
+YYDEBUG	pop.tab.c	79;"	d	file:
+YYDPRINTF	pop.tab.c	456;"	d	file:
+YYDPRINTF	pop.tab.c	540;"	d	file:
+YYDSYMPRINT	pop.tab.c	462;"	d	file:
+YYDSYMPRINT	pop.tab.c	541;"	d	file:
+YYDSYMPRINTF	pop.tab.c	468;"	d	file:
+YYDSYMPRINTF	pop.tab.c	542;"	d	file:
+YYEMPTY	pop.tab.c	393;"	d	file:
+YYEOF	pop.tab.c	394;"	d	file:
+YYERRCODE	pop.tab.c	427;"	d	file:
+YYERROR	pop.tab.c	398;"	d	file:
+YYERROR_VERBOSE	pop.tab.c	84;"	d	file:
+YYERROR_VERBOSE	pop.tab.c	85;"	d	file:
+YYERROR_VERBOSE	pop.tab.c	87;"	d	file:
+YYFAIL	pop.tab.c	405;"	d	file:
+YYFINAL	pop.tab.c	205;"	d	file:
+YYFPRINTF	pop.tab.c	453;"	d	file:
+YYINITDEPTH	pop.tab.c	550;"	d	file:
+YYLAST	pop.tab.c	207;"	d	file:
+YYLEX	pop.tab.c	443;"	d	file:
+YYLEX	pop.tab.c	445;"	d	file:
+YYLLOC_DEFAULT	pop.tab.c	433;"	d	file:
+YYLSP_NEEDED	pop.tab.c	46;"	d	file:
+YYMAXDEPTH	pop.tab.c	561;"	d	file:
+YYMAXDEPTH	pop.tab.c	565;"	d	file:
+YYMAXUTOK	pop.tab.c	220;"	d	file:
+YYNNTS	pop.tab.c	212;"	d	file:
+YYNRULES	pop.tab.c	214;"	d	file:
+YYNSTATES	pop.tab.c	216;"	d	file:
+YYNTOKENS	pop.tab.c	210;"	d	file:
+YYPACT_NINF	pop.tab.c	333;"	d	file:
+YYPOPSTACK	pop.tab.c	769;"	d	file:
+YYPURE	pop.tab.c	43;"	d	file:
+YYRECOVERING	pop.tab.c	407;"	d	file:
+YYSIZE_T	pop.tab.c	134;"	d	file:
+YYSIZE_T	pop.tab.c	376;"	d	file:
+YYSIZE_T	pop.tab.c	379;"	d	file:
+YYSIZE_T	pop.tab.c	384;"	d	file:
+YYSIZE_T	pop.tab.c	388;"	d	file:
+YYSKELETON_NAME	pop.tab.c	40;"	d	file:
+YYSTACK_ALLOC	pop.tab.c	115;"	d	file:
+YYSTACK_ALLOC	pop.tab.c	119;"	d	file:
+YYSTACK_ALLOC	pop.tab.c	122;"	d	file:
+YYSTACK_ALLOC	pop.tab.c	136;"	d	file:
+YYSTACK_BYTES	pop.tab.c	158;"	d	file:
+YYSTACK_FREE	pop.tab.c	130;"	d	file:
+YYSTACK_FREE	pop.tab.c	137;"	d	file:
+YYSTACK_GAP_MAXIMUM	pop.tab.c	154;"	d	file:
+YYSTACK_RELOCATE	pop.tab.c	185;"	d	file:
+YYSTACK_RELOCATE	pop.tab.c	858;"	d	file:
+YYSTATE	lex.yy.c	86;"	d	file:
+YYSTYPE	pop.tab.c	/^	} YYSTYPE;$/;"	t	file:
+YYSTYPE	pop.tab.c	/^typedef union YYSTYPE {$/;"	u	file:
+YYSTYPE	pop.tab.h	/^	} YYSTYPE;$/;"	t
+YYSTYPE	pop.tab.h	/^typedef union YYSTYPE {$/;"	u
+YYSTYPE_IS_DECLARED	pop.tab.c	98;"	d	file:
+YYSTYPE_IS_DECLARED	pop.tab.h	48;"	d
+YYSTYPE_IS_TRIVIAL	pop.tab.c	99;"	d	file:
+YYSTYPE_IS_TRIVIAL	pop.tab.h	49;"	d
+YYTABLE_NINF	pop.tab.c	351;"	d	file:
+YYTERROR	pop.tab.c	426;"	d	file:
+YYTOKENTYPE	pop.tab.c	52;"	d	file:
+YYTOKENTYPE	pop.tab.h	28;"	d
+YYTRANSLATE	pop.tab.c	222;"	d	file:
+YYUNDEFTOK	pop.tab.c	219;"	d	file:
+YY_AT_BOL	lex.yy.c	262;"	d	file:
+YY_BREAK	lex.yy.c	605;"	d	file:
+YY_BUFFER_EOF_PENDING	lex.yy.c	198;"	d	file:
+YY_BUFFER_NEW	lex.yy.c	186;"	d	file:
+YY_BUFFER_NORMAL	lex.yy.c	187;"	d	file:
+YY_BUFFER_STATE	lex.yy.c	/^typedef struct yy_buffer_state *YY_BUFFER_STATE;$/;"	t	file:
+YY_BUF_SIZE	lex.yy.c	97;"	d	file:
+YY_CHAR	lex.yy.c	/^typedef unsigned char YY_CHAR;$/;"	t	file:
+YY_CURRENT_BUFFER	lex.yy.c	207;"	d	file:
+YY_DECL	lex.yy.c	593;"	d	file:
+YY_DO_BEFORE_ACTION	lex.yy.c	278;"	d	file:
+YY_END_OF_BUFFER	lex.yy.c	286;"	d	file:
+YY_END_OF_BUFFER_CHAR	lex.yy.c	94;"	d	file:
+YY_EXIT_FAILURE	lex.yy.c	1601;"	d	file:
+YY_FATAL_ERROR	lex.yy.c	586;"	d	file:
+YY_FLEX_MAJOR_VERSION	lex.yy.c	8;"	d	file:
+YY_FLEX_MINOR_VERSION	lex.yy.c	9;"	d	file:
+YY_FLUSH_BUFFER	lex.yy.c	236;"	d	file:
+YY_INPUT	lex.yy.c	553;"	d	file:
+YY_MORE_ADJ	lex.yy.c	457;"	d	file:
+YY_NEW_FILE	lex.yy.c	92;"	d	file:
+YY_NO_POP_STATE	lex.yy.c	516;"	d	file:
+YY_NO_PUSH_STATE	lex.yy.c	515;"	d	file:
+YY_NO_TOP_STATE	lex.yy.c	517;"	d	file:
+YY_NULL	lex.yy.c	66;"	d	file:
+YY_NUM_RULES	lex.yy.c	285;"	d	file:
+YY_PROTO	lex.yy.c	60;"	d	file:
+YY_PROTO	lex.yy.c	62;"	d	file:
+YY_READ_BUF_SIZE	lex.yy.c	537;"	d	file:
+YY_REDUCE_PRINT	pop.tab.c	530;"	d	file:
+YY_REDUCE_PRINT	pop.tab.c	544;"	d	file:
+YY_RESTORE_YY_MORE_OFFSET	lex.yy.c	458;"	d	file:
+YY_RULE_SETUP	lex.yy.c	608;"	d	file:
+YY_SC_TO_UI	lex.yy.c	73;"	d	file:
+YY_STACK_PRINT	pop.tab.c	500;"	d	file:
+YY_STACK_PRINT	pop.tab.c	543;"	d	file:
+YY_START	lex.yy.c	85;"	d	file:
+YY_START_STACK_INCR	lex.yy.c	581;"	d	file:
+YY_STATE_EOF	lex.yy.c	89;"	d	file:
+YY_USER_ACTION	lex.yy.c	600;"	d	file:
+YY_USE_CONST	lex.yy.c	31;"	d	file:
+YY_USE_CONST	lex.yy.c	38;"	d	file:
+YY_USE_CONST	lex.yy.c	48;"	d	file:
+YY_USE_PROTOS	lex.yy.c	28;"	d	file:
+YY_USE_PROTOS	lex.yy.c	37;"	d	file:
+YY_USE_PROTOS	lex.yy.c	49;"	d	file:
+_Node	lib/list.h	/^		_Node()$/;"	f	class:List::_Node
+_Node	lib/list.h	/^		_Node(T* v)$/;"	f	class:List::_Node
+_Node	lib/list.h	/^	class _Node$/;"	c	class:List
+__FILE_H__	file.h	2;"	d
+__ITOA_H__	itoa.h	2;"	d
+__LIB_LIST_H__	lib/list.h	2;"	d
+__OR_H__	or.h	2;"	d
+__TRIE_H__	trie.h	2;"	d
+__WORD_FILE_H__	wordfile.h	2;"	d
+__WORD_H__	word.h	2;"	d
+__cplusplus	lex.yy.c	18;"	d	file:
+add_file	word.h	/^	void add_file(int fnum, int count = 0)$/;"	f	class:Word
+add_pos	word.h	/^	void add_pos(int fnum, int pos)$/;"	f	class:Word
+add_pos	wordfile.h	/^	void add_pos(int pos)$/;"	f	class:WordFile
+add_word	file.h	/^int add_word(char * word)$/;"	f
+and_them	word.h	/^Word & and_them(Word & w1, Word & w2)$/;"	f
+arr	trie.h	/^		Pointer * arr;$/;"	m	class:Trie::Node
+arr	trie1.cpp	/^		Pointer * arr;$/;"	m	class:Trie::Node	file:
+arr	trie2.cpp	/^		Pointer * arr;$/;"	m	class:Trie::Node	file:
+arr	trie3.cpp	/^		Pointer * arr;$/;"	m	class:Trie::Node	file:
+c	trie.h	/^		char c;$/;"	m	class:Trie::Node
+c	trie1.cpp	/^		char c;$/;"	m	class:Trie::Node	file:
+c	trie2.cpp	/^		char c;$/;"	m	class:Trie::Node	file:
+c	trie3.cpp	/^		char c;$/;"	m	class:Trie::Node	file:
+count	lib/list.h	/^	int count;$/;"	m	class:List
+count	trie.h	/^		static int count;$/;"	m	class:Trie::Node
+count	trie.h	/^int Trie::Node::count = ALPHABET_SIZE;$/;"	m	class:Trie::Node
+count	trie1.cpp	/^		static int count;$/;"	m	class:Trie::Node	file:
+count	trie1.cpp	/^int Trie::Node::count = ALPHABET_SIZE;$/;"	m	class:Trie::Node	file:
+count	trie2.cpp	/^		static int count;$/;"	m	class:Trie::Node	file:
+count	trie2.cpp	/^int Trie::Node::count = ALPHABET_SIZE;$/;"	m	class:Trie::Node	file:
+count	trie3.cpp	/^		static int count;$/;"	m	class:Trie::Node	file:
+count	trie3.cpp	/^int Trie::Node::count = ALPHABET_SIZE;$/;"	m	class:Trie::Node	file:
+count	wordfile.h	/^	int count;$/;"	m	class:WordFile
+data	trie.h	/^		Word * data;$/;"	m	class:Trie::Node
+data	trie1.cpp	/^		Word * data;$/;"	m	class:Trie::Node	file:
+data	trie2.cpp	/^		Word * data;$/;"	m	class:Trie::Node	file:
+data	trie3.cpp	/^		Word * data;$/;"	m	class:Trie::Node	file:
+data_offset	trie.h	/^		int data_offset;$/;"	m	class:Trie::Node
+data_offset	trie1.cpp	/^		int data_offset;$/;"	m	class:Trie::Node	file:
+data_offset	trie2.cpp	/^		int data_offset;$/;"	m	class:Trie::Node	file:
+data_offset	trie3.cpp	/^		int data_offset;$/;"	m	class:Trie::Node	file:
+dbFile	file.h	/^	static fstream dbFile;$/;"	m	class:File
+dbFile	file.h	/^fstream File::dbFile;$/;"	m	class:File
+dbFile	trie.h	/^	fstream dbIndexFile, dbFile;$/;"	m	class:Trie
+dbFile	trie1.cpp	/^	fstream dbIndexFile, dbFile;$/;"	m	class:Trie	file:
+dbFile	trie2.cpp	/^	fstream dbIndexFile, dbFile;$/;"	m	class:Trie	file:
+dbFile	trie3.cpp	/^	fstream dbIndexFile, dbFile;$/;"	m	class:Trie	file:
+dbIndexFile	file.h	/^	static fstream dbIndexFile;$/;"	m	class:File
+dbIndexFile	file.h	/^fstream File::dbIndexFile;$/;"	m	class:File
+dbIndexFile	trie.h	/^	fstream dbIndexFile, dbFile;$/;"	m	class:Trie
+dbIndexFile	trie1.cpp	/^	fstream dbIndexFile, dbFile;$/;"	m	class:Trie	file:
+dbIndexFile	trie2.cpp	/^	fstream dbIndexFile, dbFile;$/;"	m	class:Trie	file:
+dbIndexFile	trie3.cpp	/^	fstream dbIndexFile, dbFile;$/;"	m	class:Trie	file:
+end_optind	getopt.c	/^static  int  end_optind = 0 ;$/;"	v	file:
+f_num	file.h	/^int f_num = 0;$/;"	v
+file	trie.h	/^			bool file;$/;"	m	class:Trie::Node::Pointer
+file	trie1.cpp	/^			bool file;$/;"	m	class:Trie::Node::Pointer	file:
+file	trie2.cpp	/^			bool file;$/;"	m	class:Trie::Node::Pointer	file:
+file	trie3.cpp	/^			bool file;$/;"	m	class:Trie::Node::Pointer	file:
+file_count	main.cpp	/^int file_count = 0;$/;"	v
+files	word.h	/^	List<WordFile> files;$/;"	m	class:Word
+find	lib/list.h	/^	Node* find(const T& val)$/;"	f	class:List
+find	trie.h	/^		Word * find(const char * key, fstream & dbIndexFile, fstream & dbFile)$/;"	f	class:Trie::Node
+find	trie.h	/^	Word * find(const char * key)$/;"	f	class:Trie
+find	trie1.cpp	/^		Word * find(const char * key, fstream & dbIndexFile, fstream & dbFile)$/;"	f	class:Trie::Node
+find	trie1.cpp	/^	Word * find(const char * key)$/;"	f	class:Trie
+find	trie2.cpp	/^		Word * find(const char * key, fstream & dbIndexFile, fstream & dbFile)$/;"	f	class:Trie::Node
+find	trie2.cpp	/^	Word * find(const char * key)$/;"	f	class:Trie
+find	trie3.cpp	/^		Word * find(const char * key, fstream & dbIndexFile, fstream & dbFile)$/;"	f	class:Trie::Node
+find	trie3.cpp	/^	Word * find(const char * key)$/;"	f	class:Trie
+findChild	trie.h	/^		Node * findChild(char c, fstream & dbIndexFile, fstream & dbFile)$/;"	f	class:Trie::Node
+findChild	trie1.cpp	/^		Node * findChild(char c, fstream & dbIndexFile, fstream & dbFile)$/;"	f	class:Trie::Node
+findChild	trie2.cpp	/^		Node * findChild(char c, fstream & dbIndexFile, fstream & dbFile)$/;"	f	class:Trie::Node
+findChild	trie3.cpp	/^		Node * findChild(char c, fstream & dbIndexFile, fstream & dbFile)$/;"	f	class:Trie::Node
+first	lib/list.h	/^	}*first, *last;$/;"	m	class:List
+fnum	wordfile.h	/^	int fnum;$/;"	m	class:WordFile
+getCount	wordfile.h	/^	int getCount()$/;"	f	class:WordFile
+getFiles	word.h	/^	List<WordFile> & getFiles()$/;"	f	class:Word
+getFirst	lib/list.h	/^	Node* getFirst()$/;"	f	class:List
+getNum	trie.h	/^		int getNum(char c)$/;"	f	class:Trie::Node
+getNum	trie1.cpp	/^		int getNum(char c)$/;"	f	class:Trie::Node
+getNum	trie2.cpp	/^		int getNum(char c)$/;"	f	class:Trie::Node
+getNum	trie3.cpp	/^		int getNum(char c)$/;"	f	class:Trie::Node
+getNum	wordfile.h	/^	int & getNum()$/;"	f	class:WordFile
+getPositions	wordfile.h	/^	List<Int>& getPositions()$/;"	f	class:WordFile
+getVal	wordfile.h	/^	int getVal()$/;"	f	class:Int
+getWord	word.h	/^	string getWord()$/;"	f	class:Word
+getopt_h_DEFINED	lib/getopt.h	2;"	d
+init	file.h	/^	static int init(string index_fn, string fn)$/;"	f	class:File
+input	pop.y	/^input:	\/*empty*\/ {$/;"	l
+insert	lib/list.h	/^	int insert(T* val)$/;"	f	class:List
+insert	trie.h	/^		int insert(const char * key, Word * data, fstream & dbIndexFile, fstream & dbFile)$/;"	f	class:Trie::Node
+insert	trie.h	/^	int insert(const char * key, Word * data)$/;"	f	class:Trie
+insert	trie1.cpp	/^		int insert(const char * key, Word * data, fstream & dbIndexFile, fstream & dbFile)$/;"	f	class:Trie::Node
+insert	trie1.cpp	/^	int insert(const char * key, Word * data)$/;"	f	class:Trie
+insert	trie2.cpp	/^		int insert(const char * key, Word * data, fstream & dbIndexFile, fstream & dbFile)$/;"	f	class:Trie::Node
+insert	trie2.cpp	/^	int insert(const char * key, Word * data)$/;"	f	class:Trie
+insert	trie3.cpp	/^		int insert(const char * key, Word * data, fstream & dbIndexFile, fstream & dbFile)$/;"	f	class:Trie::Node
+insert	trie3.cpp	/^	int insert(const char * key, Word * data)$/;"	f	class:Trie
+insertChild	trie.h	/^		void insertChild(char c, Node * child, fstream & dbIndexFile, fstream & dbFile)$/;"	f	class:Trie::Node
+insertChild	trie1.cpp	/^		void insertChild(char c, Node * child, fstream & dbIndexFile, fstream & dbFile)$/;"	f	class:Trie::Node
+insertChild	trie2.cpp	/^		void insertChild(char c, Node * child, fstream & dbIndexFile, fstream & dbFile)$/;"	f	class:Trie::Node
+insertChild	trie3.cpp	/^		void insertChild(char c, Node * child, fstream & dbIndexFile, fstream & dbFile)$/;"	f	class:Trie::Node
+is_valid	main.cpp	/^bool is_valid(string & path)$/;"	f
+itoa	itoa.h	/^char * itoa(int n)$/;"	f
+itoa	trie3.cpp	/^char * itoa(int a)$/;"	f
+last	lib/list.h	/^	}*first, *last;$/;"	m	class:List
+last_optind	getopt.c	/^static  int  last_optind = 0 ;$/;"	v	file:
+load	lib/list.h	/^	void load(istream & in)$/;"	f	class:List
+load	trie.h	/^		void load(fstream & dbIndexFile, fstream & dbFile)$/;"	f	class:Trie::Node
+load	trie1.cpp	/^		void load(fstream & dbIndexFile, fstream & dbFile)$/;"	f	class:Trie::Node
+load	trie2.cpp	/^		void load(fstream & dbIndexFile, fstream & dbFile)$/;"	f	class:Trie::Node
+load	trie3.cpp	/^		void load(fstream & dbIndexFile, fstream & dbFile)$/;"	f	class:Trie::Node
+main	lex.yy.c	/^int main()$/;"	f
+main	main.cpp	/^int main(int argc, char **argv)$/;"	f
+main	temp.cpp	/^int main()$/;"	f
+main	trie1.cpp	/^int main()$/;"	f
+main	trie2.cpp	/^int main()$/;"	f
+main	trie3.cpp	/^int main(int argc, char **argv)$/;"	f
+makeDirty	trie.h	/^		void makeDirty()$/;"	f	class:Trie::Node
+makeDirty	trie1.cpp	/^		void makeDirty()$/;"	f	class:Trie::Node
+makeDirty	trie2.cpp	/^		void makeDirty()$/;"	f	class:Trie::Node
+makeDirty	trie3.cpp	/^		void makeDirty()$/;"	f	class:Trie::Node
+makelower	file.h	/^void makelower(char * s)$/;"	f
+modified	trie.h	/^		bool modified;$/;"	m	class:Trie::Node
+modified	trie1.cpp	/^		bool modified;$/;"	m	class:Trie::Node	file:
+modified	trie2.cpp	/^		bool modified;$/;"	m	class:Trie::Node	file:
+modified	trie3.cpp	/^		bool modified;$/;"	m	class:Trie::Node	file:
+my_getopt	getopt.c	/^int  my_getopt (int argc, char **argv, char *optstring)$/;"	f
+n	wordfile.h	/^	int n;$/;"	m	class:Int
+next	lib/list.h	/^		_Node *next;$/;"	m	class:List::_Node
+next_num	file.h	/^	static int next_num;$/;"	m	class:File
+next_num	file.h	/^int File::next_num;$/;"	m	class:File
+node	trie.h	/^				Node * node;$/;"	m	union:Trie::Node::Pointer::<anonymous>
+node	trie1.cpp	/^				Node * node;$/;"	m	union:Trie::Node::Pointer::<anonymous>	file:
+node	trie2.cpp	/^				Node * node;$/;"	m	union:Trie::Node::Pointer::<anonymous>	file:
+node	trie3.cpp	/^				Node * node;$/;"	m	union:Trie::Node::Pointer::<anonymous>	file:
+offset	trie.h	/^				int offset;$/;"	m	union:Trie::Node::Pointer::<anonymous>
+offset	trie.h	/^		int offset;$/;"	m	class:Trie::Node
+offset	trie1.cpp	/^				int offset;$/;"	m	union:Trie::Node::Pointer::<anonymous>	file:
+offset	trie1.cpp	/^		int offset;$/;"	m	class:Trie::Node	file:
+offset	trie2.cpp	/^				int offset;$/;"	m	union:Trie::Node::Pointer::<anonymous>	file:
+offset	trie2.cpp	/^		int offset;$/;"	m	class:Trie::Node	file:
+offset	trie3.cpp	/^				int offset;$/;"	m	union:Trie::Node::Pointer::<anonymous>	file:
+offset	trie3.cpp	/^		int offset;$/;"	m	class:Trie::Node	file:
+offset_in_group	getopt.c	/^static  int  offset_in_group = 1 ;$/;"	v	file:
+operator <<	trie.h	/^ostream & operator << (ostream & out, Trie::Node & node)$/;"	f
+operator <<	trie1.cpp	/^ostream & operator << (ostream & out, Trie::Node & node)$/;"	f
+operator <<	trie2.cpp	/^ostream & operator << (ostream & out, Trie::Node & node)$/;"	f
+operator <<	trie3.cpp	/^ostream & operator << (ostream & out, Trie::Node & node)$/;"	f
+operator <<	word.h	/^ostream & operator << (ostream & out, Word & w)$/;"	f
+operator <<	wordfile.h	/^ostream & operator << (ostream & out, Int & i)$/;"	f
+operator <<	wordfile.h	/^ostream & operator << (ostream & out, WordFile & wf)$/;"	f
+operator ==	wordfile.h	/^	bool operator == (const WordFile & wf)$/;"	f	class:WordFile
+operator >>	trie.h	/^istream & operator >> (istream & in, Trie::Node & node)$/;"	f
+operator >>	trie1.cpp	/^istream & operator >> (istream & in, Trie::Node & node)$/;"	f
+operator >>	trie2.cpp	/^istream & operator >> (istream & in, Trie::Node & node)$/;"	f
+operator >>	trie3.cpp	/^istream & operator >> (istream & in, Trie::Node & node)$/;"	f
+operator >>	word.h	/^istream & operator >> (istream & in, Word & w)$/;"	f
+operator >>	wordfile.h	/^istream & operator >> (istream & in, Int & i)$/;"	f
+operator >>	wordfile.h	/^istream & operator >> (istream & in, WordFile & wf)$/;"	f
+optarg	getopt.c	/^char  *optarg = NULL ;$/;"	v
+opterr	getopt.c	/^int  opterr = -1 ;$/;"	v
+optind	getopt.c	/^int  optind = 0 ;$/;"	v
+or_them	word.h	/^Word & or_them(Word & w1, Word & w2)$/;"	f
+or_these	or.h	/^int or_these(char *word1, char *word2)$/;"	f
+p	trie.h	/^			}p;$/;"	m	class:Trie::Node::Pointer
+p	trie1.cpp	/^			}p;$/;"	m	class:Trie::Node::Pointer	file:
+p	trie2.cpp	/^			}p;$/;"	m	class:Trie::Node::Pointer	file:
+p	trie3.cpp	/^			}p;$/;"	m	class:Trie::Node::Pointer	file:
+parse	file.h	/^	static void parse(string p)$/;"	f	class:File
+phrase_match	word.h	/^Word & phrase_match(Word & w1, Word & w2)$/;"	f
+positions	wordfile.h	/^	List<Int> positions;$/;"	m	class:WordFile
+print	main.cpp	/^void print(Word & w)$/;"	f
+print	or.h	/^void print(Word & w)$/;"	f
+rec1	pop.y	/^rec1:    \/*empty*\/ $/;"	l
+rec2	pop.y	/^rec2:    \/*empty*\/ $/;"	l
+resolvePath	file.h	/^	static string resolvePath(int num)$/;"	f	class:File
+root	trie.h	/^	} * root;$/;"	m	class:Trie
+root	trie1.cpp	/^	} * root;$/;"	m	class:Trie	file:
+root	trie2.cpp	/^	} * root;$/;"	m	class:Trie	file:
+root	trie3.cpp	/^	} * root;$/;"	m	class:Trie	file:
+s	main.cpp	/^Word * s(string & word, Trie & t)$/;"	f
+save	lib/list.h	/^	void save(ostream & out)$/;"	f	class:List
+save	trie.h	/^		void save(fstream & dbIndexFile, fstream & dbFile)$/;"	f	class:Trie::Node
+save	trie.h	/^	void save()$/;"	f	class:Trie
+save	trie1.cpp	/^		void save(fstream & dbIndexFile, fstream & dbFile)$/;"	f	class:Trie::Node
+save	trie1.cpp	/^	void save()$/;"	f	class:Trie
+save	trie2.cpp	/^		void save(fstream & dbIndexFile, fstream & dbFile)$/;"	f	class:Trie::Node
+save	trie2.cpp	/^	void save()$/;"	f	class:Trie
+save	trie3.cpp	/^		void save(fstream & dbIndexFile, fstream & dbFile)$/;"	f	class:Trie::Node
+save	trie3.cpp	/^	void save()$/;"	f	class:Trie
+sort	lib/list.h	/^	void sort()$/;"	f	class:List
+strchr	getopt.c	66;"	d	file:
+string	pop.tab.c	/^		char string[50];$/;"	m	union:YYSTYPE	file:
+string	pop.tab.h	/^		char string[50];$/;"	m	union:YYSTYPE
+t	file.h	/^Trie * t;$/;"	v
+traverse	main.cpp	/^void traverse(string & fn)$/;"	f
+uninit	file.h	/^	static int uninit()$/;"	f	class:File
+unput	lex.yy.c	135;"	d	file:
+val	lib/list.h	/^		T* val;$/;"	m	class:List::_Node
+word	word.h	/^	string word;$/;"	m	class:Word
+wpos	file.h	/^int wpos = 0;$/;"	v
+yy_accept	lex.yy.c	/^static yyconst short int yy_accept[177] =$/;"	v	file:
+yy_at_bol	lex.yy.c	/^	int yy_at_bol;$/;"	m	struct:yy_buffer_state	file:
+yy_base	lex.yy.c	/^static yyconst short int yy_base[178] =$/;"	v	file:
+yy_buf_pos	lex.yy.c	/^	char *yy_buf_pos;		\/* current position in input buffer *\/$/;"	m	struct:yy_buffer_state	file:
+yy_buf_size	lex.yy.c	/^	yy_size_t yy_buf_size;$/;"	m	struct:yy_buffer_state	file:
+yy_buffer_state	lex.yy.c	/^struct yy_buffer_state$/;"	s	file:
+yy_buffer_status	lex.yy.c	/^	int yy_buffer_status;$/;"	m	struct:yy_buffer_state	file:
+yy_c_buf_p	lex.yy.c	/^static char *yy_c_buf_p = (char *) 0;$/;"	v	file:
+yy_ch_buf	lex.yy.c	/^	char *yy_ch_buf;		\/* input buffer *\/$/;"	m	struct:yy_buffer_state	file:
+yy_chk	lex.yy.c	/^static yyconst short int yy_chk[208] =$/;"	v	file:
+yy_create_buffer	lex.yy.c	/^YY_BUFFER_STATE yy_create_buffer( FILE *file, int size )$/;"	f
+yy_current_buffer	lex.yy.c	/^static YY_BUFFER_STATE yy_current_buffer = 0;$/;"	v	file:
+yy_def	lex.yy.c	/^static yyconst short int yy_def[178] =$/;"	v	file:
+yy_delete_buffer	lex.yy.c	/^void yy_delete_buffer( YY_BUFFER_STATE b )$/;"	f
+yy_did_buffer_switch_on_eof	lex.yy.c	/^static int yy_did_buffer_switch_on_eof;$/;"	v	file:
+yy_ec	lex.yy.c	/^static yyconst int yy_ec[256] =$/;"	v	file:
+yy_fatal_error	lex.yy.c	/^static void yy_fatal_error( yyconst char msg[] )$/;"	f	file:
+yy_fill_buffer	lex.yy.c	/^	int yy_fill_buffer;$/;"	m	struct:yy_buffer_state	file:
+yy_flex_alloc	lex.yy.c	/^static void *yy_flex_alloc( yy_size_t size )$/;"	f	file:
+yy_flex_free	lex.yy.c	/^static void yy_flex_free( void *ptr )$/;"	f	file:
+yy_flex_realloc	lex.yy.c	/^static void *yy_flex_realloc( void *ptr, yy_size_t size )$/;"	f	file:
+yy_flex_strlen	lex.yy.c	/^static int yy_flex_strlen( yyconst char *s )$/;"	f	file:
+yy_flex_strncpy	lex.yy.c	/^static void yy_flex_strncpy( char *s1, yyconst char *s2, int n )$/;"	f	file:
+yy_flush_buffer	lex.yy.c	/^void yy_flush_buffer( YY_BUFFER_STATE b )$/;"	f
+yy_get_next_buffer	lex.yy.c	/^static int yy_get_next_buffer()$/;"	f	file:
+yy_get_previous_state	lex.yy.c	/^static yy_state_type yy_get_previous_state()$/;"	f	file:
+yy_hold_char	lex.yy.c	/^static char yy_hold_char;$/;"	v	file:
+yy_init	lex.yy.c	/^static int yy_init = 1;		\/* whether we need to initialize *\/$/;"	v	file:
+yy_init_buffer	lex.yy.c	/^void yy_init_buffer( YY_BUFFER_STATE b, FILE *file )$/;"	f
+yy_input_file	lex.yy.c	/^	FILE *yy_input_file;$/;"	m	struct:yy_buffer_state	file:
+yy_is_interactive	lex.yy.c	/^	int yy_is_interactive;$/;"	m	struct:yy_buffer_state	file:
+yy_is_our_buffer	lex.yy.c	/^	int yy_is_our_buffer;$/;"	m	struct:yy_buffer_state	file:
+yy_last_accepting_cpos	lex.yy.c	/^static char *yy_last_accepting_cpos;$/;"	v	file:
+yy_last_accepting_state	lex.yy.c	/^static yy_state_type yy_last_accepting_state;$/;"	v	file:
+yy_load_buffer_state	lex.yy.c	/^void yy_load_buffer_state( void )$/;"	f
+yy_meta	lex.yy.c	/^static yyconst int yy_meta[26] =$/;"	v	file:
+yy_n_chars	lex.yy.c	/^	int yy_n_chars;$/;"	m	struct:yy_buffer_state	file:
+yy_n_chars	lex.yy.c	/^static int yy_n_chars;		\/* number of characters read into yy_ch_buf *\/$/;"	v	file:
+yy_new_buffer	lex.yy.c	246;"	d	file:
+yy_nxt	lex.yy.c	/^static yyconst short int yy_nxt[208] =$/;"	v	file:
+yy_pop_state	lex.yy.c	/^static void yy_pop_state()$/;"	f	file:
+yy_push_state	lex.yy.c	/^static void yy_push_state( int new_state )$/;"	f	file:
+yy_reduce_print	pop.tab.c	/^yy_reduce_print (yyrule)$/;"	f	file:
+yy_scan_buffer	lex.yy.c	/^YY_BUFFER_STATE yy_scan_buffer( char *base, yy_size_t size )$/;"	f
+yy_scan_bytes	lex.yy.c	/^YY_BUFFER_STATE yy_scan_bytes( yyconst char *bytes, int len )$/;"	f
+yy_scan_string	lex.yy.c	/^YY_BUFFER_STATE yy_scan_string( yyconst char *yy_str )$/;"	f
+yy_set_bol	lex.yy.c	255;"	d	file:
+yy_set_interactive	lex.yy.c	248;"	d	file:
+yy_size_t	lex.yy.c	/^typedef unsigned int yy_size_t;$/;"	t	file:
+yy_stack_print	pop.tab.c	/^yy_stack_print (bottom, top)$/;"	f	file:
+yy_start	lex.yy.c	/^static int yy_start = 0;	\/* start state number *\/$/;"	v	file:
+yy_start_stack	lex.yy.c	/^static int *yy_start_stack = 0;$/;"	v	file:
+yy_start_stack_depth	lex.yy.c	/^static int yy_start_stack_depth = 0;$/;"	v	file:
+yy_start_stack_ptr	lex.yy.c	/^static int yy_start_stack_ptr = 0;$/;"	v	file:
+yy_state_type	lex.yy.c	/^typedef int yy_state_type;$/;"	t	file:
+yy_switch_to_buffer	lex.yy.c	/^void yy_switch_to_buffer( YY_BUFFER_STATE new_buffer )$/;"	f
+yy_top_state	lex.yy.c	/^static int yy_top_state()$/;"	f	file:
+yy_try_NUL_trans	lex.yy.c	/^static yy_state_type yy_try_NUL_trans( yy_state_type yy_current_state )$/;"	f	file:
+yyalloc	pop.tab.c	/^union yyalloc$/;"	u	file:
+yychar	pop.tab.c	/^int yychar;$/;"	v
+yycheck	pop.tab.c	/^static const yysigned_char yycheck[] =$/;"	v	file:
+yyclearin	pop.tab.c	392;"	d	file:
+yyconst	lex.yy.c	53;"	d	file:
+yyconst	lex.yy.c	55;"	d	file:
+yydebug	pop.tab.c	/^int yydebug;$/;"	v
+yydefact	pop.tab.c	/^static const unsigned char yydefact[] =$/;"	v	file:
+yydefgoto	pop.tab.c	/^static const yysigned_char yydefgoto[] =$/;"	v	file:
+yydestruct	pop.tab.c	/^yydestruct (yytype, yyvaluep)$/;"	f	file:
+yyerrok	pop.tab.c	391;"	d	file:
+yyerror	pop.tab.c	/^int yyerror(char *)$/;"	f
+yyin	lex.yy.c	/^FILE *yyin = (FILE *) 0, *yyout = (FILE *) 0;$/;"	v
+yyinput	lex.yy.c	/^static int yyinput()$/;"	f	file:
+yyleng	lex.yy.c	/^int yyleng;$/;"	v
+yyless	lex.yy.c	124;"	d	file:
+yyless	lex.yy.c	1619;"	d	file:
+yyless	lex.yy.c	1620;"	d	file:
+yylval	pop.tab.c	/^YYSTYPE yylval;$/;"	v
+yymore	lex.yy.c	456;"	d	file:
+yynerrs	pop.tab.c	/^int yynerrs;$/;"	v
+yyout	lex.yy.c	/^FILE *yyin = (FILE *) 0, *yyout = (FILE *) 0;$/;"	v
+yypact	pop.tab.c	/^static const yysigned_char yypact[] =$/;"	v	file:
+yypgoto	pop.tab.c	/^static const yysigned_char yypgoto[] =$/;"	v	file:
+yyprhs	pop.tab.c	/^static const unsigned char yyprhs[] =$/;"	v	file:
+yyr1	pop.tab.c	/^static const unsigned char yyr1[] =$/;"	v	file:
+yyr2	pop.tab.c	/^static const unsigned char yyr2[] =$/;"	v	file:
+yyrestart	lex.yy.c	/^void yyrestart( FILE *input_file )$/;"	f
+yyrhs	pop.tab.c	/^static const yysigned_char yyrhs[] =$/;"	v	file:
+yyrline	pop.tab.c	/^static const unsigned char yyrline[] =$/;"	v	file:
+yysigned_char	pop.tab.c	/^   typedef short yysigned_char;$/;"	t	file:
+yysigned_char	pop.tab.c	/^   typedef signed char yysigned_char;$/;"	t	file:
+yyss	pop.tab.c	/^  short yyss;$/;"	m	union:yyalloc	file:
+yystos	pop.tab.c	/^static const unsigned char yystos[] =$/;"	v	file:
+yystpcpy	pop.tab.c	/^yystpcpy (char *yydest, const char *yysrc)$/;"	f	file:
+yystpcpy	pop.tab.c	597;"	d	file:
+yystrlen	pop.tab.c	/^yystrlen (const char *yystr)$/;"	f	file:
+yystrlen	pop.tab.c	574;"	d	file:
+yystype	pop.tab.c	97;"	d	file:
+yystype	pop.tab.h	47;"	d
+yysymprint	pop.tab.c	/^yysymprint (yyoutput, yytype, yyvaluep)$/;"	f	file:
+yytable	pop.tab.c	/^static const unsigned char yytable[] =$/;"	v	file:
+yyterminate	lex.yy.c	576;"	d	file:
+yytext	lex.yy.c	/^char *yytext;$/;"	v
+yytext_ptr	lex.yy.c	268;"	d	file:
+yytname	pop.tab.c	/^static const char *const yytname[] =$/;"	v	file:
+yytokentype	pop.tab.c	/^   enum yytokentype {$/;"	g	file:
+yytokentype	pop.tab.h	/^   enum yytokentype {$/;"	g
+yytoknum	pop.tab.c	/^static const unsigned short yytoknum[] =$/;"	v	file:
+yytranslate	pop.tab.c	/^static const unsigned char yytranslate[] =$/;"	v	file:
+yyunput	lex.yy.c	/^static void yyunput( int c, register char *yy_bp )$/;"	f	file:
+yyvs	pop.tab.c	/^  YYSTYPE yyvs;$/;"	m	union:yyalloc	file:
+yywrap	pop.tab.c	/^int yywrap()$/;"	f
